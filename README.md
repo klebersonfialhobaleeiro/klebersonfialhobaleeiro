@@ -94,12 +94,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=klebersonfialhobaleeiro&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=pt-br&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=klebersonfialhobaleeiro&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=klebersonfialhobaleeiro&locale=pt-br&mode=weekly&theme=discord_old_blurple&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=klebersonfialhobaleeiro&theme=discord&column=2&row=2&margin-w=12&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
